@@ -1,0 +1,6 @@
+.imgs_inicio{
+    display: flex;
+    gap: 4vh;
+    padding-left: 65rem;
+    margin-top: -3rem;
+}

@@ -1,0 +1,24 @@
+.lista{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    height: 100vh;
+   
+}
+.inicio{
+    background-color: blue;
+}
+.jogo{
+    background-color: black;
+}
+.sobre{
+    background-color: aqua;
+}
+.suporte{
+    background-color: blueviolet;
+}
+.agradecimentos{
+    background-color: tomato;
+}
