@@ -8,12 +8,12 @@ body{
 }
 section{
     height: 100vh;
+    width: 100%;
 }
 .inicio{
-    display: flex;
+
 }
 .jogo{
-    background-color: tomato;
 }
 .sobre{
     background-color: aqua;

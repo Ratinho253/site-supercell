@@ -6,13 +6,6 @@
     color: #DADADA;
     font-size: 2vh;
 }
-.line{
-    display: flex;
-    width: 162px;
-    height: 2px;
-    transform: rotate(90deg);
-    background-color: #fff;
-}
 .lupa{
     display: flex;
     padding-left: 96%;
