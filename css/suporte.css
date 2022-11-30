@@ -1,0 +1,23 @@
+.suporte{
+    display: flex;
+    background-image: url(../img/support.png);
+}
+.suport-titulo{
+    display: flex;
+    padding-top: 2%;
+    padding-left: 8%;
+    font-size: 7vh;
+}
+.sub-suport{
+    display: flex;
+    padding-left: 7%;
+}
+.sub-suporte{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-top: 15%;
+ 
+    font-size: 4vh;
+    color: #fff;
+}
