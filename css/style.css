@@ -1,26 +1,36 @@
 body{
     height: 100vh;
-}
-.lista{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+    width: 100%;
 }
 section{
-    height: 100vh;
+    height: 1000px;
     width: 100%;
 }
 .inicio{
-
+    height: 1000px;
+    width: 100%;
 }
 .jogo{
+    height: 1000px;
+    width: 100%;
 }
 .sobre{
+    height: 1000px;
     background-color: aqua;
+    width: 100%;
 }
 .suporte{
-    background-color: blueviolet;
+    height: 1000px;
+    width: 100%;
 }
 .agradecimentos{
-    background-color: tomato;
+    height: 1000px;
+    width: 100%;
+}
+footer{
+    height: 200px;
+    width: 100%;
+    font-size: .75rem;
+    background-color: black;
+
 }
