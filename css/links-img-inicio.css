@@ -4,3 +4,9 @@
     padding-left: 65%;
     margin-top: -3rem;
 }
+
+@media (max-width:640px){
+    .imgs_inicio{
+        display: none ;
+    }
+}

@@ -78,3 +78,31 @@ Acaba aqui primeira parte das imgs
     gap: 30%;
     font-size: 4vh;
 }
+@media (max-width:640px){
+  .img_jogos{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+  }
+  .imgs_jogos2{
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    padding-left: 20%;
+}
+.nomes_img_jogos{
+  display: flex;
+  flex-direction: column;
+  margin-top: -800px;
+  padding-left: 30%;
+  gap: 350px
+}
+.nomes_img_jogos2{
+  display: flex;
+  flex-direction: column;
+  margin-top: -400px;
+  padding-left: 30%;
+  gap: 350px;
+}
+
+}

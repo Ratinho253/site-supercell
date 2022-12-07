@@ -11,3 +11,12 @@
     padding-left: 96%;
     margin-top: -3.5rem;
 }
+
+@media (max-width:640px){
+    .lista{
+        display: none ;
+    }
+    .lupa{
+        display: none;
+    }
+}

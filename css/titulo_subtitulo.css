@@ -15,3 +15,17 @@
 .sub-titulo{
     font-size: 4vh;
 }
+@media (max-width:640px){
+    .tiulo{
+        display: flex;
+        margin-top: -28%;
+        padding-left: 18%;
+        font-size: 400%;
+    }
+    .sub-titulo{
+        font-size: 4vh;
+    }
+    .sub{
+       padding-left: 14%;
+    }
+}
