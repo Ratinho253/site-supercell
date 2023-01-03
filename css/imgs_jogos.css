@@ -106,3 +106,18 @@ Acaba aqui primeira parte das imgs
 }
 
 }
+@media (max-width:375px){
+  .img_jogos{
+    display: none;
+  }
+  .imgs_jogos2{
+    display: none;
+}
+.nomes_img_jogos{
+  display: none;
+}
+.nomes_img_jogos2{
+  display: none;
+}
+
+}

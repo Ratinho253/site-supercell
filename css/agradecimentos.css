@@ -75,3 +75,15 @@
     }
     
 }
+@media (max-width:375px){
+
+    .titulo-agradecimento{
+        display: none;
+    }
+    .titulos-links{
+        display: none;
+    }
+    .links-contatos{
+        display: none;
+    }
+}    

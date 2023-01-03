@@ -40,4 +40,24 @@
    }
 
 }
+@media (max-width:375px){
+    .suport-titulo{
+        padding-top: 5%;
+        font-size: 1rem;
+    }
+    .sub-suporte{
+        font-size: 1rem;
+        padding-top: 12%;
+        padding-left: 23%;
+    }
+    .lista-sup{
+        display: flex;
+        flex-direction: column;
+        font-size: 1rem;
+        padding-top: 10%;
+        gap: 12px;
+        padding-left: 30%;
+    }
+ 
+ }
 
